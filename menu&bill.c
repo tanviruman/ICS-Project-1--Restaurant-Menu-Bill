@@ -7,9 +7,7 @@ int main()
 
    int total_cost=0;
 
-   // printf("Enter the year : ");
-
-   // scanf("%d",&year);
+   
 
    while (in != 4)
    {
